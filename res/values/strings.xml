@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">NFC神経衰弱【橙幻郷】</string>
+    
+<!-- setting -->
+          
+<!-- list -->
+
+<!-- menu -->
+    <string name="menu_restart">再スタート</string>
+	<string name="menu_finish">終了</string>    
+    <string name="menu_setting">設定</string>
+    <string name="clear_button">カードの登録内容を消去する</string>
+    <string name="setting_title">設定</string>
+	                 
+</resources>
